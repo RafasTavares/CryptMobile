@@ -1,0 +1,5 @@
+C:\Users\Rafael\Desktop\CryptMobile\ServWindowsCrypt\bin\Debug\ServWindowsCrypt.dll
+C:\Users\Rafael\Desktop\CryptMobile\ServWindowsCrypt\bin\Debug\ServWindowsCrypt.pdb
+C:\Users\Rafael\Desktop\CryptMobile\ServWindowsCrypt\obj\Debug\ServWindowsCrypt.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\CryptMobile\ServWindowsCrypt\obj\Debug\ServWindowsCrypt.dll
+C:\Users\Rafael\Desktop\CryptMobile\ServWindowsCrypt\obj\Debug\ServWindowsCrypt.pdb
